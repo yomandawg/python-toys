@@ -1,0 +1,9 @@
+name,email,phone
+john,john@hphk.kr,01012345678
+ashley,ashley@hphk.kr,01098765432
+
+[
+    [name,email,phone],
+    [john,john@hphk.kr,01012345678],
+    [ashley,ashley@hphk.kr,01098765432]
+]
